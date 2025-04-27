@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Master branch text changed
 Text changed on master branch for the second time
+=======
+M1-M3-27April2025 branch text
+>>>>>>> M1-M3-27April2025
