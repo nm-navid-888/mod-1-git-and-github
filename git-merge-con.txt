@@ -1,1 +1,2 @@
 Master branch text
+Text changed on master branch
